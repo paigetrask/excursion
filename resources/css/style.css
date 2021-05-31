@@ -12,3 +12,14 @@ html {
     font-size: 16px;
     text-decoration: underline;
 }
+
+.center h4 {
+    font-weight: 300;
+    font-size: 42px;
+}
+
+.center h6 {
+    font-size: 21px;
+    color: gray;
+    font-weight: lighter;
+}
